@@ -1,0 +1,6 @@
+Call Stack
+Es como un mapa para las ejecuciones de las fucniones, 
+el proceso va poniendo en una pila las funciones por ejecutar  qué función se esta ejecutando actualmente y 
+qué funciones son llamadas desde esa funció entonces esta va a empezara del ultimo en entrar al primero. 
+Last in First Out. 
+
